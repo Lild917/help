@@ -1,4 +1,4 @@
-# Welcome to HashLips 👄
+# Welcome to New Jerusalem Tribe Trust
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
